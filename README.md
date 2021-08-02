@@ -1,15 +1,17 @@
 ### Hi there 👋
 ### my programmer's name is viper23 
 
-I am a computer enthusiast and I like the dark side of the net
+###I like the dark side of the internet and everything that goes with hacking, espionage, privacy protection and especially anonymity
+
+###📫 How to reach me: ...shikroot@protonmail.ch
 <!--
 **tonycarlin2306/tonycarlin2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..Django and some others library in python like matplolib
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ..Django and some others library in python like matplolib cryptography ....
+ 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...shikroot@protonmail.ch
