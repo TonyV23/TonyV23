@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### my programmer's name is viper23 
 
-###I like the dark side of the internet and everything that goes with hacking, espionage, privacy protection and especially anonymity
+### I like the dark side of the internet and everything that goes with hacking, espionage, privacy protection and especially anonymity
 
-###📫 How to reach me: ...shikroot@protonmail.ch
+### 📫 How to reach me: ...shikroot@protonmail.ch
 <!--
 **tonycarlin2306/tonycarlin2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
