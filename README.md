@@ -5,7 +5,7 @@
 
 ### 📫 How to reach me: ...shikroot@protonmail.ch || htonnycarlos@gmail.com
 ### 💬 Ask me about  JAVA
-### Member of Kubwacu Team wwww.kubwacu.com
+### Member of Kubwacu Team https://kubwacu.com
 <!--
 **tonycarlin2306/tonycarlin2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
