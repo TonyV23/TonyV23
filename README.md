@@ -1,10 +1,11 @@
 ### Hi there 👋
 ### My programmer's name is Viper23 
 
-### I like JAVA the dark side of the internet and everything that goes with hacking, espionage, privacy protection and especially anonymity
+### I like JAVA , the dark side of the internet and everything that goes with hacking, espionage, privacy protection and especially anonymity
 
 ### 📫 How to reach me: ...shikroot@protonmail.ch || htonnycarlos@gmail.com
 ### 💬 Ask me about  JAVA
+### Member of Kubwacu Team wwww.kubwacu.com
 <!--
 **tonycarlin2306/tonycarlin2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
