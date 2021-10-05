@@ -2,6 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&theme=tokyonight)
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
