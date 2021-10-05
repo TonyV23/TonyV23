@@ -7,3 +7,10 @@
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&theme=tokyonight)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/TonyV23/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TonyV23&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/TonyV23/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TonyV23&repo=convoychat" />
+</a>
