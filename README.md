@@ -13,5 +13,5 @@ Member of Kubwacu Team https://kubwacu.com
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23)](https://github.com/TonyV23/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyV23&count_private=true)
+
 
