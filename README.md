@@ -11,7 +11,7 @@ Member of Kubwacu Team https://kubwacu.com
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&theme=tokyonight)
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23)](https://github.com/TonyV23/github-readme-stats)-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23)](https://github.com/TonyV23/github-readme-stats)
 
 
 
