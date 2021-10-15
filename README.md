@@ -53,7 +53,7 @@ Member of Kubwacu Team https://kubwacu.com
 
 <p align="left">
 
-  <a href = "https://www.linkedin.com/in/Tony-Carlin-HAKIZIMANA/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://www.linkedin.com/in/tony-carlin-hakizimana-a9a172198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/tonyht23"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/tonyht_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
