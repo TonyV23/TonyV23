@@ -11,6 +11,8 @@ Member of Kubwacu Team https://kubwacu.com
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyV23)](https://git.io/streak-stats)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
