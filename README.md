@@ -37,11 +37,7 @@ Member of Kubwacu Team https://kubwacu.com
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&layout=compact)](https://github.com/TonyV23/github-readme-stats)
- 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23&layout=compact)](https://github.com/TonyV23/github-readme-stats)
+    <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a
 
 <br/>
 
@@ -54,7 +50,7 @@ Member of Kubwacu Team https://kubwacu.com
 <br/>
 
 ## Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyV23)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyV23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://git.io/streak-stats)
 
 ## Connect with me:
 
