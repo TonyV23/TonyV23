@@ -13,6 +13,8 @@ Member of Kubwacu Team https://kubwacu.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyV23)](https://git.io/streak-stats)
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
