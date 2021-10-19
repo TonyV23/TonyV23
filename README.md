@@ -11,10 +11,6 @@ Member of Kubwacu Team https://kubwacu.com
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyV23)](https://git.io/streak-stats)
-
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -42,8 +38,12 @@ Member of Kubwacu Team https://kubwacu.com
 
   <br/>
     <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&layout=compact)](https://github.com/TonyV23/github-readme-stats)
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23&layout=compact)](https://github.com/TonyV23/github-readme-stats)
+
+<br/>
 
 <br/>
 <br/>
@@ -52,6 +52,9 @@ Member of Kubwacu Team https://kubwacu.com
 
 <br/>
 <br/>
+
+## Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyV23)](https://git.io/streak-stats)
 
 ## Connect with me:
 
