@@ -11,6 +11,9 @@ Member of Kubwacu Team https://kubwacu.com
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&theme=tokyonight)
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
