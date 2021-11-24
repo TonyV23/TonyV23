@@ -8,8 +8,11 @@ I like the dark side of the internet and everything that goes with privacy and a
 Member of Kubwacu Team https://kubwacu.com
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=TonyV23.TonyV23)
+
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23)](https://github.com/TonyV23/github-readme-stats)
 ## 🚀 Languages and Tools:
+
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!--a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>!-->
@@ -29,10 +32,10 @@ Member of Kubwacu Team https://kubwacu.com
     <!--a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>!-->
     <!--a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>!-->
 </p>
+    
 ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a>
-    <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=true8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <br/>
     <p align="center">
     <a href="https://github.com/TonyV23/github-readme-streak-stats">
@@ -44,7 +47,7 @@ Member of Kubwacu Team https://kubwacu.com
 <br/>
 ## Connect with me:
 
-<p align="center">
+<p align="left">
   <a href = "https://www.linkedin.com/in/tony-carlin-hakizimana-a9a172198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/tonyht23"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/tonyht_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
