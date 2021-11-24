@@ -44,6 +44,7 @@ Member of Kubwacu Team https://kubwacu.com
 <br/>
 <a href="https://github.com/TonyV23/github-readme-activity-graph"><img alt="Hakizimana Tony Carlin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TonyV23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+<br/>
 # Connect with me:
 
 <p align="left">
