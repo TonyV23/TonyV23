@@ -10,6 +10,9 @@ Member of Kubwacu Team https://kubwacu.com
 ![](https://visitor-badge.laobi.icu/badge?page_id=TonyV23.TonyV23)
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
