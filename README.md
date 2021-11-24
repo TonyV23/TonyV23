@@ -11,7 +11,7 @@ Member of Kubwacu Team https://kubwacu.com
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&layout=compact)](https://github.com/TonyV23/github-readme-stats)
+<a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=true8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a>
 
 ## 🚀 Languages and Tools:
 
@@ -44,6 +44,7 @@ Member of Kubwacu Team https://kubwacu.com
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakizimana Tony Carlin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TonyV23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
     </a>
 </p>
+
 <br/>
 <a href="https://github.com/TonyV23/github-readme-activity-graph"><img alt="Hakizimana Tony Carlin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TonyV23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
