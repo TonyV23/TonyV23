@@ -11,7 +11,7 @@ Member of Kubwacu Team https://kubwacu.com
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
-<a href="https://github.com/kalculata/github-readme-stats"><img alt="Hakizimana Tony Carlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalculata&langs_count=true8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a>
+<a href="https://github.com/Ace7260/github-readme-stats"><img alt="Hakizimana Tony Carlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace7260&langs_count=true8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a>
 
 ## 🚀 Languages and Tools:
 
