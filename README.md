@@ -39,10 +39,9 @@ Member of Kubwacu Team https://kubwacu.com
 </p>
     
 ## 📊 My Github Stats
-<!--   <br/>
+  <br/>
     <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a>
-  <br/> -->
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+  <br/> 
     <p align="center">
     <a href="https://github.com/TonyV23/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakizimana Tony Carlin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TonyV23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
