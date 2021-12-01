@@ -13,6 +13,8 @@ Member of Kubwacu Team https://kubwacu.com
 
 <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=true8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TonyV23)](https://github.com/TonyV23/github-readme-stats)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
