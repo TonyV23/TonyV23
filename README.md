@@ -1,7 +1,7 @@
 # This is Viper23
 I like the dark side of the internet and everything that goes with privacy and anonymity
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 
