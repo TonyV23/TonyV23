@@ -1,11 +1,11 @@
 # This is Viper23
 I like the dark side of the internet and everything that goes with privacy and anonymity
 
-- 🌱 I’m currently learning React
+<!-- - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 
-Member of Kubwacu Team https://kubwacu.com
+-  -->
+Web developer at <a href="https://www.kubwacu.com/">Kubwacu</a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=TonyV23.TonyV23)
 
