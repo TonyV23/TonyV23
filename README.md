@@ -11,7 +11,7 @@ Web developer at <a href="https://www.kubwacu.com/">Kubwacu</a>
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)
 <!-- 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats) -->
 
@@ -24,7 +24,6 @@ Web developer at <a href="https://www.kubwacu.com/">Kubwacu</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
