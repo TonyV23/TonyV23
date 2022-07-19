@@ -5,7 +5,7 @@ I like the dark side of the internet and everything that goes with privacy and a
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 -  -->
-Web developer at <a href="https://www.kubwacu.com/">Kubwacu</a>
+Developer at <a href="https://www.kubwacu.com/">Kubwacu</a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=TonyV23.TonyV23)
 
