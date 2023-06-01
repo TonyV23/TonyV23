@@ -40,7 +40,7 @@ I like the dark side of the internet and everything that goes with privacy and a
     
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a>
+    <a href="https://github.com/TonyV23/github-readme-stats"><img alt="Hakizimana Tony Carlin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TonyV23&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/> </a>
   <br/> 
     <p align="center">
     <a href="https://github.com/TonyV23/github-readme-streak-stats">
@@ -49,15 +49,8 @@ I like the dark side of the internet and everything that goes with privacy and a
 </p>
 
 <br/>
-<!-- <a href="https://github.com/TonyV23/github-readme-activity-graph"><img alt="Hakizimana Tony Carlin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TonyV23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a> -->
 
-[![Hakizimana Tony Carlin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TonyV23&bg_color=09121a&color=fdfcfd&line=f2f2f2&point=00ff2a&area=true&hide_border=true)](https://github.com/TonyV23/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=TonyV23&bg_color=060A0CD0&color=E6EDF3&line=00E7FF&point=00E7FF&area=true&hide_border=true)](https://github.com/TonyV23/github-readme-activity-graph)
 
 <br/>
 <br/>
-
-<p align="left">
-  <a href = "https://www.linkedin.com/in/tony-carlin-hakizimana-a9a172198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "https://www.instagram.com/t0nyv23/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
