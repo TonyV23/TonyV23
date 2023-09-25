@@ -13,6 +13,8 @@ I like the dark side of the internet and everything that goes with privacy and a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)
 
+[![WakaTime](https://wakatime.com/badge/github/TonyV23.svg)](https://wakatime.com/dashboard)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
