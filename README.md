@@ -15,6 +15,8 @@ I like the dark side of the internet and everything that goes with privacy and a
 
 [![WakaTime](https://wakatime.com/badge/github/TonyV23.svg)](https://wakatime.com/dashboard)
 
+[![committers.top badge](https://user-badge.committers.top/burundi/TonyV23.svg)](https://user-badge.committers.top/burundi/TonyV23)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
