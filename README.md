@@ -15,7 +15,7 @@ I like the dark side of the internet and everything that goes with privacy and a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)
 
-[![Hakizimana Tony Carlin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viper23)](https://github.com/TonyV23/github-readme-stats)
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&viper23&layout=compact&&theme=default&link="https://www.github.com/TonyV23/")
 
 ## 🚀 Languages and Tools:
 
