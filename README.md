@@ -11,6 +11,8 @@ I like the dark side of the internet and everything that goes with privacy and a
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
 
+[![committers.top badge](https://user-badge.committers.top/burundi/TonyV23.svg)](https://user-badge.committers.top/burundi/TonyV23)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)
 
 [![WakaTime](https://wakatime.com/badge/github/TonyV23.svg)](https://wakatime.com/dashboard)
