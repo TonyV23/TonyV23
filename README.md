@@ -15,8 +15,6 @@ I like the dark side of the internet and everything that goes with privacy and a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)
 
-``## Languages and Tools:``
-
 <p align="left"> 
 <!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
