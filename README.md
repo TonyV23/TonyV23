@@ -1,9 +1,9 @@
 # This is Viper23
 I like the dark side of the internet and everything that goes with privacy and anonymity
 
-- 🌱 I’m currently working on React projects
-- 👯 I’m looking to collaborate with other developers on web projects
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently working on React, Next, Nodejs and Python projects
+- 👯 I’m looking to collaborate with other developers on web and mobile projects
+- 🥅 2023 Goals: Contribute more to Open Source or not projects
 
 <!-- Developer at <a href="https://www.kubwacu.com/">Kubwacu</a> -->
 
