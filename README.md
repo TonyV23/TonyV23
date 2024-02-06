@@ -7,15 +7,11 @@ I like the dark side of the internet and everything that goes with privacy and a
 
 <!-- Developer at <a href="https://www.kubwacu.com/">Kubwacu</a> -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=TonyV23.TonyV23)
-
-[![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23)
-
-[![committers.top badge](https://user-badge.committers.top/burundi/TonyV23.svg)](https://user-badge.committers.top/burundi/TonyV23)
+[![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23) [![committers.top badge](https://user-badge.committers.top/burundi/TonyV23.svg)](https://user-badge.committers.top/burundi/TonyV23) ![](https://visitor-badge.laobi.icu/badge?page_id=TonyV23.TonyV23) [![wakatime](https://wakatime.com/badge/user/e36684bc-e121-4309-a48d-e82f26d82b2d.svg)](https://wakatime.com/@e36684bc-e121-4309-a48d-e82f26d82b2d)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyV23&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyV23&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)    
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viper23&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TonyV23/github-readme-stats)    
 
 ## 📊 My Github Stats
   <br/>
