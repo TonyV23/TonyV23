@@ -1,10 +1,5 @@
 # This is Viper23
 I like the dark side of the internet and everything that goes with privacy and anonymity
-
-- 🌱 I’m currently working on Reactjs, Nextjs, Nodejs and Python projects
-- 👯 I’m looking to collaborate with other developers on web and mobile projects
-- 🥅 2024 Goals: Contribute more to Open Source or not projects
-
 <!-- Developer at <a href="https://www.kubwacu.com/">Kubwacu</a> -->
 
 [![Github](https://img.shields.io/github/followers/TonyV23?label=Follow&style=social)](https://github.com/TonyV23) [![committers.top badge](https://user-badge.committers.top/burundi/TonyV23.svg)](https://user-badge.committers.top/burundi/TonyV23) ![](https://visitor-badge.laobi.icu/badge?page_id=TonyV23.TonyV23) [![wakatime](https://wakatime.com/badge/user/e36684bc-e121-4309-a48d-e82f26d82b2d.svg)](https://wakatime.com/@e36684bc-e121-4309-a48d-e82f26d82b2d)
